@@ -1,5 +1,5 @@
 # COVID-19-X-Ray-Classification
-Utilizing Deep Learning to detect COVID-19 and Viral Pneumonia from x-ray images 
+Utilizing Deep Learning to detect COVID-19 and Viral Pneumonia from x-ray images. The original project is [**here**](https://github.com/faizancodes/COVID-19-X-Ray-Classification)
 
 Datasets used: 
 
